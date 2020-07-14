@@ -1,6 +1,6 @@
 # spring-restfull-webservices-crud
 
-##  processes 
+##  operations queries
 
 ### get process
 ![Screenshot_2](https://user-images.githubusercontent.com/29493936/87472977-778e6180-c629-11ea-95cf-db6c42af381f.png)
